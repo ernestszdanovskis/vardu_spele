@@ -1,0 +1,23 @@
+body{
+background-color: #74F053
+
+}
+
+input {
+    display: block;
+    margin-bottom: 10px ;
+}
+
+#start-button{
+    background-color: #002C92;
+    color: #a68eff;
+}
+
+#delete{
+    background-color: #002C92;
+    color: #a68eff;
+}
+
+#text {
+    display: none;
+}
